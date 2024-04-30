@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700421437 source:c:\users\mahdi dabiri\desktop\fist code blocks\project9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
